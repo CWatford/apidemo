@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cw-api2
+Implementation-Version: 1.5.4.RELEASE
+Built-By: col
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/cw-api2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
